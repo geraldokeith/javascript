@@ -47,9 +47,8 @@ console.log(lastName)
 // dealing with constants
 const carName = "subaru"
 console.log(carName)
-// carName = "Audi"
-// console.log(carName)
-Const carNumber
+ carName = "Audi"
+console.log(carName)
 
 // naming coventions
 // 1. camelcase eg . firstName
